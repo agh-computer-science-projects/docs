@@ -1,0 +1,8 @@
+site_name: Bus-registration-app
+theme:
+  name: 'material'
+nav:
+  - Opis: index.md
+  - Klasy: classes.md
+  - Diagramy: diagrams.md
+
