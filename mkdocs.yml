@@ -3,6 +3,7 @@ theme:
   name: 'material'
 nav:
   - Opis: index.md
-  - Klasy: classes.md
-  - Diagramy: diagrams.md
+  - Plan prac: schedule.md
+  - Karty CRC: ./classes/index.md
+  - Diagramy UC: ./diagrams/index.md
 
